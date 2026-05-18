@@ -1,6 +1,12 @@
 # Cognitive Enterprise Engine
 
+[![CI](https://github.com/nraya529/cognitive-enterprise-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/nraya529/cognitive-enterprise-engine/actions/workflows/ci.yml)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A complete starter kit for running an AI automation consulting practice targeting traditional SMBs — built around a production-grade multi-agent autonomous back-office system as the technical core.
+
+> See [results/](results/) for a real chaotic invoice and the structured output the engine produces from it.
 
 This repository contains three things:
 
