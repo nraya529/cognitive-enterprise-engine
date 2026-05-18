@@ -1,0 +1,57 @@
+{
+  "trace_id": "a3f8e2d1c0b9",
+  "doc_type": "invoice",
+  "document_date": "2026-03-01",
+  "due_date": "2026-03-31",
+  "invoice_number": "INV-2025-0847",
+  "risk_score": 0.0,
+  "timestamp_processed": "2026-03-03T14:18:42.193847+00:00",
+  "entity": {
+    "legal_name": "Acme Plumbing Supply Co.",
+    "tax_id": "12-3456789",
+    "email": "billing@acmeplumbing.com",
+    "phone": "(617) 555-0142",
+    "address": "47 Industrial Way, Boston MA 02118",
+    "matched_vendor_id": "V001",
+    "match_confidence": 0.97
+  },
+  "ledger": {
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "6\" copper pipe (10 ft)",
+        "quantity": "12",
+        "unit_price": "43.50",
+        "total": "522.00",
+        "ledger_account": "5600"
+      },
+      {
+        "description": "Pressure fittings, brass",
+        "quantity": "24",
+        "unit_price": "8.75",
+        "total": "210.00",
+        "ledger_account": "5600"
+      },
+      {
+        "description": "Solder kit",
+        "quantity": "1",
+        "unit_price": "34.99",
+        "total": "34.99",
+        "ledger_account": "5600"
+      }
+    ],
+    "subtotal": "766.99",
+    "tax_amount": "47.94",
+    "grand_total": "814.93",
+    "math_is_valid": true
+  },
+  "actions": {
+    "requires_human_review": false,
+    "review_reasons": [],
+    "suggested_next_step": "Auto-post to ledger, send confirmation email.",
+    "draft_email_subject": "Receipt confirmed: invoice INV-2025-0847",
+    "draft_email_body": "Hi Acme Plumbing Supply team,\n\nWe've received and processed invoice INV-2025-0847 for $814.93. The line items have been posted to our Materials & Inventory ledger account and the invoice is queued for payment per Net 30 terms, with a target pay date of 2026-03-31.\n\nThanks for the prompt invoicing on the Cambridge site delivery.\n\nBest,\nAccounts Payable"
+  },
+  "self_heal_attempts": 0,
+  "raw_excerpt": "Forwarded from: billing@acmeplumbing.com\nSent: Mon, Mar 3 2026 9:14 AM\nSubject: INV-2025-0847 from Acme Plumbing\n\n---------- Forwarded Message ----------\n\nHi Eddy,\n\nPlease find our invoice attached below"
+}

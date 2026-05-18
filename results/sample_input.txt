@@ -1,0 +1,33 @@
+Forwarded from: billing@acmeplumbing.com
+Sent: Mon, Mar 3 2026 9:14 AM
+Subject: INV-2025-0847 from Acme Plumbing
+
+---------- Forwarded Message ----------
+
+Hi Eddy,
+
+Please find our invoice attached below for the materials we delivered to
+your Cambridge site last week. Net 30 as usual.
+
+INVOICE
+Acme Plumbing Supply  Co.    EIN: 12-3456789
+47 Industrial Way, Boston MA 02118
+billing@acmeplumbing.com    (617) 555-0142
+
+Bill To:  Eddy's Plumbing Services
+Invoice #: INV-2025-0847
+Issue Date: 03/01/2026
+Due Date:   03/31/2026
+
+Line items:
+   6"  copper pipe (10 ft)      qty 12  @  $43.50  =   $522.00
+   Pressure fittings, brass     qty 24  @  $ 8.75  =   $210.00
+   Solder kit                   qty  1  @  $34.99  =   $ 34.99
+
+Subtotal:               $766.99
+MA Sales Tax (6.25%):   $ 47.94
+-----
+GRAND TOTAL DUE:        $814.93
+
+Thank you for your continued business.
+Pay via ACH to routing 011000138 acct 4445102837
