@@ -1,0 +1,9 @@
+[
+  {"id": "V001", "legal_name": "Acme Plumbing Supply Co.", "aliases": ["Acme Plumbing", "Acme Supply"], "tax_id": "12-3456789", "preferred_account": "5600"},
+  {"id": "V002", "legal_name": "Sullivan & Associates LLC", "aliases": ["Sullivan Associates", "Sullivan Legal"], "tax_id": "98-7654321", "preferred_account": "5200"},
+  {"id": "V003", "legal_name": "Boston Electric Utility", "aliases": ["BEU", "Boston Electric"], "tax_id": "04-1234567", "preferred_account": "5300"},
+  {"id": "V004", "legal_name": "QuickBooks Online", "aliases": ["Intuit", "QBO"], "tax_id": "77-0202382", "preferred_account": "5100"},
+  {"id": "V005", "legal_name": "Home Depot Pro", "aliases": ["Home Depot", "HD Pro", "The Home Depot"], "tax_id": "58-1853319", "preferred_account": "5600"},
+  {"id": "V006", "legal_name": "Verizon Business", "aliases": ["Verizon", "Verizon Wireless Business"], "tax_id": "23-2259884", "preferred_account": "5300"},
+  {"id": "V007", "legal_name": "Hartford Insurance", "aliases": ["Hartford", "Hartford Financial"], "tax_id": "06-0345445", "preferred_account": "5800"}
+]

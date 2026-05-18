@@ -1,0 +1,14 @@
+{
+  "5000": {"name": "Office Supplies", "keywords": ["paper", "pens", "supplies", "staples", "office"]},
+  "5100": {"name": "Software & Subscriptions", "keywords": ["saas", "subscription", "software", "license", "monthly", "annual"]},
+  "5200": {"name": "Professional Services", "keywords": ["consulting", "legal", "accounting", "attorney", "cpa"]},
+  "5300": {"name": "Utilities", "keywords": ["electric", "water", "gas", "internet", "phone", "telecom"]},
+  "5400": {"name": "Rent & Lease", "keywords": ["rent", "lease", "facility"]},
+  "5500": {"name": "Travel & Entertainment", "keywords": ["hotel", "airline", "uber", "lyft", "meal", "restaurant"]},
+  "5600": {"name": "Materials & Inventory", "keywords": ["materials", "parts", "lumber", "pipe", "fitting", "wire"]},
+  "5700": {"name": "Equipment & Tools", "keywords": ["tool", "equipment", "machinery", "drill", "saw"]},
+  "5800": {"name": "Insurance", "keywords": ["insurance", "liability", "workers comp", "premium"]},
+  "5900": {"name": "Marketing & Advertising", "keywords": ["advertising", "marketing", "google ads", "facebook", "seo"]},
+  "6000": {"name": "Vehicle & Fuel", "keywords": ["fuel", "gasoline", "diesel", "vehicle", "auto repair"]},
+  "9999": {"name": "Unclassified", "keywords": []}
+}
